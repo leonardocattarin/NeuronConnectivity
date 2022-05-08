@@ -1,0 +1,18 @@
+"NDInfoFile", Version 2.0
+"Description", Multi Dimensions Experiment
+"StartTime1", 20211217 15:19:02
+"DoTimelapse", FALSE
+"NTimePoints", 1
+"DoStage", FALSE
+"DoWave", TRUE
+"NWavelengths", 2
+"WaveName1", "VCS 100X RFP"
+"WaveDoZ1", TRUE
+"WaveName2", "VCS 100X CY5"
+"WaveDoZ2", TRUE
+"DoZSeries", TRUE
+"NZSteps", 19
+"ZStepSize", 0
+"WaveInFileName", TRUE
+"NEvents", 0
+"EndFile"
